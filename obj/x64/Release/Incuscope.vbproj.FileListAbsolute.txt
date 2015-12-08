@@ -1,0 +1,49 @@
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Release\Incuscope.exe
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Release\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Release\Incuscope.xml
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Release\FlyCapture2GUI_Managed.dll
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Release\FlyCapture2Managed.dll
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\Incuscope.Form1.resources
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\Incuscope.Resources.resources
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\ResGen.read.1.tlog
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\ResGen.write.1.tlog
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\Incuscope.exe
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\Incuscope.xml
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Release\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\bin\x64\Release\Incuscope.exe.config
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.exe
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.xml
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\bin\x64\Release\Incuscope.exe
+C:\Program Files (x86)\IncuScope\bin\x64\Release\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\bin\x64\Release\Incuscope.xml
+C:\Program Files (x86)\IncuScope\bin\x64\Release\FlyCapture2GUI_Managed.dll
+C:\Program Files (x86)\IncuScope\bin\x64\Release\FlyCapture2Managed.dll
+C:\Program Files (x86)\IncuScope\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.Form1.resources
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.FormFocusing.resources
+C:\Program Files (x86)\IncuScope\obj\x64\Release\Incuscope.Resources.resources
+C:\Program Files (x86)\IncuScope\obj\x64\Release\ResGen.read.1.tlog
+C:\Program Files (x86)\IncuScope\obj\x64\Release\ResGen.write.1.tlog
+C:\Programs\IncuScope\bin\x64\Release\Incuscope.exe.config
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.exe
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.xml
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.pdb
+C:\Programs\IncuScope\bin\x64\Release\Incuscope.exe
+C:\Programs\IncuScope\bin\x64\Release\Incuscope.pdb
+C:\Programs\IncuScope\bin\x64\Release\Incuscope.xml
+C:\Programs\IncuScope\bin\x64\Release\FlyCapture2GUI_Managed.dll
+C:\Programs\IncuScope\bin\x64\Release\FlyCapture2Managed.dll
+C:\Programs\IncuScope\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.ExtraExposure.resources
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.Form1.resources
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.FormCamSelection.resources
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.FormFocusing.resources
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.FormSkipPosition.resources
+C:\Programs\IncuScope\obj\x64\Release\Incuscope.Resources.resources
+C:\Programs\IncuScope\obj\x64\Release\GenerateResource-ResGen.read.1.tlog
+C:\Programs\IncuScope\obj\x64\Release\GenerateResource-ResGen.read.4.tlog
+C:\Programs\IncuScope\obj\x64\Release\ResGen.read.1.tlog
+C:\Programs\IncuScope\obj\x64\Release\GenerateResource-ResGen.write.1.tlog
+C:\Programs\IncuScope\obj\x64\Release\ResGen.write.1.tlog

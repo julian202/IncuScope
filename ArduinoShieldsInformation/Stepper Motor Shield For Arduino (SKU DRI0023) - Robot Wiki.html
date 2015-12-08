@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<!-- saved from url=(0084)http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023) -->
+<html lang="en" dir="ltr" class="client-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8"><title>Stepper Motor Shield For Arduino (SKU:DRI0023) - Robot Wiki</title>
+<meta name="generator" content="MediaWiki 1.22.1">
+<link rel="shortcut icon" href="http://www.dfrobot.com/wiki/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.dfrobot.com/wiki/opensearch_desc.php" title="Robot Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://www.dfrobot.com/wiki/api.php?action=rsd">
+<link rel="alternate" type="application/atom+xml" title="Robot Wiki Atom feed" href="http://www.dfrobot.com/wiki/index.php?title=Special:RecentChanges&feed=atom">
+<link rel="stylesheet" href="https://www.dfrobot.com/wiki/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&only=styles&skin=vector&*">
+<style>
+.mw-collapsible-toggle{float:right} li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+/* cache key: df_wiki-wk:resourceloader:filter:minify-css:7:4250852ed2349a0d4d0fc6509a3e7d4c */
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px -1px 0 0} html > body .suggestions{margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left}.suggestions-result-current{background-color:#4C59A6;color:white}.suggestions-special .special-label{color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white}.autoellipsis-matched,.highlight{font-weight:bold}
+/* cache key: df_wiki-wk:resourceloader:filter:minify-css:7:9780324491b653a3780e2d029bdc140c */
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000;font-size:13px}.postedit-container:hover{cursor:pointer}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;line-height:1.5625em;color:#626465;background-color:#f4f4f4;border:1px solid #dcd9d9;text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);border-radius:5px;-webkit-box-shadow:0 2px 5px 0 #ccc;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.skin-monobook .postedit{top:6em !important}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aRdTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj///////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9UhjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUTs9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuUdxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8wVh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXaChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pSEwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfOFCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkSuQmCC);background-image:url(https://www.dfrobot.com/wiki/resources/mediawiki.action/images/green-checkmark.png?2014-01-14T05:50:00Z)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:black;text-shadow:0 0.0625em 0 white;text-decoration:none;opacity:0.2;filter:alpha(opacity=20)}.postedit-close:hover{color:black;text-decoration:none;opacity:0.4;filter:alpha(opacity=40)}
+/* cache key: df_wiki-wk:resourceloader:filter:minify-css:7:472534675c9ec775ab71b8aadf21d4ea */</style><style>
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{text-decoration:none;color:black}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:white}
+/* cache key: df_wiki-wk:resourceloader:filter:minify-css:7:52b1797f70c7e4094dfa4191101944e8 */</style><meta name="ResourceLoaderDynamicStyles" content="">
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/load.php"></script><script src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/load(1).php"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)","wgTitle":"Stepper Motor Shield For Arduino (SKU:DRI0023)","wgCurRevisionId":7914,"wgRevisionId":7914,"wgArticleId":1483,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Product Manual","DRI Series","Shield"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: df_wiki-wk:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script><script src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/load(2).php"></script>
+<script type="text/javascript" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/shCore.js"></script>
+<script type="text/javascript" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/shAutoloader.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/shCoreMinit.css">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/wiki/skins/vector/csshover.min.htc")}</style><![endif]--><script async="" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/load(3).php"></script></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stepper_Motor_Shield_For_Arduino_SKU_DRI0023 skin-vector action-view vector-animateLayout" data-pinterest-extension-installed="cr1.35">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div id="mw-js-message" style="display:none;"></div>
+<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Stepper Motor Shield For Arduino (SKU:DRI0023)</span></h1>
+<div id="bodyContent">
+<div id="siteSub">From Robot Wiki</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav" class="mw-jump">
+Jump to: <a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#mw-navigation">navigation</a>, <a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#p-search">search</a>
+</div>
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_pic.jpg" class="image"><img alt="" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/300px-DRI0023_pic.jpg" width="300" height="251" class="thumbimage" srcset="/wiki/images/thumb/c/cc/DRI0023_pic.jpg/450px-DRI0023_pic.jpg 1.5x, /wiki/images/thumb/c/cc/DRI0023_pic.jpg/600px-DRI0023_pic.jpg 2x"></a> <div class="thumbcaption"><div class="magnify"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_pic.jpg" class="internal" title="Enlarge"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/magnify-clip.png" width="15" height="11" alt=""></a></div>Stepper Motor Shield For Arduino</div></div></div>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">&nbsp;[<a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#" class="internal" id="togglelink">hide</a>]&nbsp;</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#Specification"><span class="tocnumber">2</span> <span class="toctext">Specification</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#Pin_Out.26_Diagram"><span class="tocnumber">3</span> <span class="toctext">Pin Out&amp; Diagram</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#Step_.28and_microstep.29_size"><span class="tocnumber">3.1</span> <span class="toctext">Step (and microstep) size</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#More_details"><span class="tocnumber">3.2</span> <span class="toctext">More details</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#Sample_code"><span class="tocnumber">4</span> <span class="toctext">Sample code</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<p>Do you want to do some projects with stepper motors such as a drafting instrument, a 3D printer, an auto curtain, etc...? As we all know, regular stepper motors are hard to drive, but with this stepper motor shield, you can easily drive 2 stepper motors via just 4 digital I/O’s. This board is compatible with the Arduino UNO R3. Directly supports Xbee and Xbee form factor Wi-Fi, Bluetooth and RF modules. Easy connection of cables via screwless PC terminals. Each stepper motor has a code switch for adjusting driving modes, to obtain different rotational speeds. Interfaces of the board include extension 6 channel Analog I/O, 10 channel Digital I/O &amp; I2C.
+<br>
+</p>
+<h2><span class="mw-headline" id="Specification">Specification</span></h2>
+<ul>
+<li>Input Voltage：8-35V DC(Just power the stepper motor driver)
+</li>
+<li>Press to connect cables, quick and easy
+</li>
+<li>Digital I/O:D4,D5,D6,D7
+</li>
+<li>10 channel digital I/O&amp;6 channel Analog I/O addition
+</li>
+<li>A4988 microstepping bipolar stepper motor driver
+</li>
+<li>Adjustable current limiting
+</li>
+<li>Up to 2 A output current per coil
+</li>
+<li>Five different microstep resolutions (down to 1/16-step)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Pin_Out.26_Diagram">Pin Out&amp; Diagram</span></h2>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:652px;"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023.png" class="image"><img alt="" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/650px-DRI0023.png" width="650" height="475" class="thumbimage" srcset="/wiki/images/thumb/5/51/DRI0023.png/975px-DRI0023.png 1.5x, /wiki/images/thumb/5/51/DRI0023.png/1300px-DRI0023.png 2x"></a> <div class="thumbcaption"><div class="magnify"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023.png" class="internal" title="Enlarge"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/magnify-clip.png" width="15" height="11" alt=""></a></div>Stepper Motor Shield For Arduino</div></div></div></div>
+<p><br>
+</p>
+<ul>
+<li>Wireless program switch:
+<ul>
+<li><b>RUN:</b>Finish downloading code and running
+</li>
+<li><b>PROG:</b>While downloade code and programming
+</li>
+</ul>
+</li>
+<li>Dip switch settings for Micro step resolution can be found on the back of the board. (Allows you to set different rotational speeds as per your requirement). See table below:
+</li>
+</ul>
+<p><br>
+</p>
+<div class="center"><div class="floatnone"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRi0023_resolution.png" class="image"><img alt="DRi0023 resolution.png" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/400px-DRi0023_resolution.png" width="400" height="204" srcset="/wiki/images/thumb/8/80/DRi0023_resolution.png/600px-DRi0023_resolution.png 1.5x, /wiki/images/thumb/8/80/DRi0023_resolution.png/800px-DRi0023_resolution.png 2x"></a></div></div>
+<p><br>
+</p>
+<h3><span class="mw-headline" id="Step_.28and_microstep.29_size">Step (and microstep) size</span></h3>
+<p>Stepper motors typically have a step size specification (e.g. 1.8° or 200 steps per revolution), which applies to full steps. A microstepping driver such as the A4988 allows higher resolutions by allowing intermediate step locations, which are achieved by energizing the coils with intermediate current levels. For instance, driving a motor in quarter-step mode will give the 200-step-per-revolution motor 800 microsteps per revolution by using four different current levels.
+<br>
+The resolution (step size) selector inputs (MS1, MS2, and MS3) enable selection from the five step resolutions according to the table below. MS1 and MS3 have internal 100kΩ pull-down resistors and MS2 has an internal 50kΩ pull-down resistor, so leaving these three microstep selection pins disconnected results in full-step mode. For the microstep modes to function correctly, the current limit must be set low enough (see below) so that current limiting gets engaged. Otherwise, the intermediate current levels will not be correctly maintained, and the motor will skip microsteps.
+<br>
+</p>
+<h3><span class="mw-headline" id="More_details">More details</span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_connector1.png" class="image"><img alt="DRI0023 connector1.png" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/300px-DRI0023_connector1.png" width="300" height="291" class="thumbimage" srcset="/wiki/images/thumb/e/ed/DRI0023_connector1.png/450px-DRI0023_connector1.png 1.5x, /wiki/images/thumb/e/ed/DRI0023_connector1.png/600px-DRI0023_connector1.png 2x"></a> <div class="thumbcaption"><div class="magnify"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_connector1.png" class="internal" title="Enlarge"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/magnify-clip.png" width="15" height="11" alt=""></a></div></div></div></div></div>
+<ul>
+<li>screwless terminals to connect cables quickly &amp; easily
+</li>
+<li>The other form of connector for JST2.54 or femable headers
+</li>
+</ul>
+<p><br>
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_driver.png" class="image"><img alt="DRI0023 driver.png" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/400px-DRI0023_driver.png" width="400" height="230" class="thumbimage" srcset="/wiki/images/thumb/4/40/DRI0023_driver.png/600px-DRI0023_driver.png 1.5x, /wiki/images/thumb/4/40/DRI0023_driver.png/800px-DRI0023_driver.png 2x"></a> <div class="thumbcaption"><div class="magnify"><a href="http://www.dfrobot.com/wiki/index.php?title=File:DRI0023_driver.png" class="internal" title="Enlarge"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/magnify-clip.png" width="15" height="11" alt=""></a></div></div></div></div></div>
+<p>Adjustable current control lets you set the maximum current output with a potentiometer, which lets you use voltages above your stepper motor’s rated voltage to achieve higher step rates.
+The A4988 supports such active current limiting, and the trimmer potentiometer on the board can be used to set the current limit. One way to set the current limit is to put the driver into full-step mode and to measure the current running through a single motor coil without clocking the STEP input. The measured current will be 0.7 times the current limit (since both coils are always on and limited to 70% of the current limit setting in full-step mode).
+<br>
+The A4988 driver IC has a maximum current rating of 2 A per coil, but the actual current you can deliver depends on how well you can keep the IC cool. The carrier’s printed circuit board is designed to draw heat out of the IC, but to supply more than approximately 1 A per coil, a heat sink or other cooling method is required.
+<br>
+<b>Two small driver boards can get hot enough to burn you long before the chip overheats. Take care.</b>
+<br>
+</p>
+<h2><span class="mw-headline" id="Sample_code">Sample code</span></h2>
+<div><div id="highlighter_968593" class="syntaxhighlighter  cpp"><div class="toolbar"><span><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#" class="toolbar_item command_help help">?</a></span></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="gutter"><div class="line number1 index0 alt2">1</div><div class="line number2 index1 alt1">2</div><div class="line number3 index2 alt2">3</div><div class="line number4 index3 alt1">4</div><div class="line number5 index4 alt2">5</div><div class="line number6 index5 alt1">6</div><div class="line number7 index6 alt2">7</div><div class="line number8 index7 alt1">8</div><div class="line number9 index8 alt2">9</div><div class="line number10 index9 alt1">10</div><div class="line number11 index10 alt2">11</div><div class="line number12 index11 alt1">12</div><div class="line number13 index12 alt2">13</div><div class="line number14 index13 alt1">14</div><div class="line number15 index14 alt2">15</div><div class="line number16 index15 alt1">16</div><div class="line number17 index16 alt2">17</div><div class="line number18 index17 alt1">18</div><div class="line number19 index18 alt2">19</div><div class="line number20 index19 alt1">20</div><div class="line number21 index20 alt2">21</div><div class="line number22 index21 alt1">22</div><div class="line number23 index22 alt2">23</div><div class="line number24 index23 alt1">24</div><div class="line number25 index24 alt2">25</div><div class="line number26 index25 alt1">26</div><div class="line number27 index26 alt2">27</div><div class="line number28 index27 alt1">28</div><div class="line number29 index28 alt2">29</div><div class="line number30 index29 alt1">30</div><div class="line number31 index30 alt2">31</div></td><td class="code"><div class="container"><div class="line number1 index0 alt2"><code class="cpp comments">/*</code></div><div class="line number2 index1 alt1"><code class="cpp comments">This sample code is for testing the 2 stepper motors </code></div><div class="line number3 index2 alt2"><code class="cpp comments">The rotation velocity can be adjusted by the code switch </code></div><div class="line number4 index3 alt1"><code class="cpp comments">Microcontroller: Arduino UNO&nbsp; </code></div><div class="line number5 index4 alt2"><code class="cpp comments">*/</code></div><div class="line number6 index5 alt1"><code class="cpp color1 bold">int</code> <code class="cpp plain">M1dirpin = 4;</code></div><div class="line number7 index6 alt2"><code class="cpp color1 bold">int</code> <code class="cpp plain">M1steppin = 5;</code></div><div class="line number8 index7 alt1"><code class="cpp color1 bold">int</code> <code class="cpp plain">M2dirpin = 7;</code></div><div class="line number9 index8 alt2"><code class="cpp color1 bold">int</code> <code class="cpp plain">M2steppin = 6;</code></div><div class="line number10 index9 alt1"><code class="cpp keyword bold">void</code> <code class="cpp plain">setup()</code></div><div class="line number11 index10 alt2"><code class="cpp plain">{</code></div><div class="line number12 index11 alt1"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">pinMode(M1dirpin,OUTPUT);</code></div><div class="line number13 index12 alt2"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">pinMode(M1steppin,OUTPUT);</code></div><div class="line number14 index13 alt1"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">pinMode(M2dirpin,OUTPUT);</code></div><div class="line number15 index14 alt2"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">pinMode(M2steppin,OUTPUT);</code></div><div class="line number16 index15 alt1"><code class="cpp plain">}</code></div><div class="line number17 index16 alt2"><code class="cpp keyword bold">void</code> <code class="cpp plain">loop()</code></div><div class="line number18 index17 alt1"><code class="cpp plain">{</code></div><div class="line number19 index18 alt2"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp color1 bold">int</code> <code class="cpp plain">j;</code></div><div class="line number20 index19 alt1"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">delayMicroseconds(2);</code></div><div class="line number21 index20 alt2"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M1dirpin,LOW);</code></div><div class="line number22 index21 alt1"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M2dirpin,LOW);</code></div><div class="line number23 index22 alt2"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp keyword bold">for</code><code class="cpp plain">(j=0;j&lt;=5000;j++){</code></div><div class="line number24 index23 alt1"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M1steppin,LOW);</code></div><div class="line number25 index24 alt2"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M2steppin,LOW);</code></div><div class="line number26 index25 alt1"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">delayMicroseconds(2);</code></div><div class="line number27 index26 alt2"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M1steppin,HIGH);</code></div><div class="line number28 index27 alt1"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">digitalWrite(M2steppin,HIGH);</code></div><div class="line number29 index28 alt2"><code class="cpp spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="cpp plain">delay(1);</code></div><div class="line number30 index29 alt1"><code class="cpp spaces">&nbsp;&nbsp;</code><code class="cpp plain">}</code></div><div class="line number31 index30 alt2"><code class="cpp plain">}</code></div></div></td></tr></tbody></table></div></div>
+<p><br>
+<a href="http://www.dfrobot.com/wiki/index.php?title=File:Nextredirectltr.png" class="image"><img alt="Nextredirectltr.png" src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/Nextredirectltr.png" width="42" height="20"></a>Go Shopping <a rel="nofollow" class="external text" href="http://www.dfrobot.com/index.php?route=product/product&filter_name=dri0023&product_id=1060#.Urj5V_SVNU0">Dual Bipolar Stepper Motor Shield for Arduino (A4988) (SKU:DRI0023)</a>
+<br><br>
+</p><script type="text/javascript">SyntaxHighlighter.autoloader('cpp /wiki/extensions/SyntaxHighlighter/syntaxhighlighter/scripts/shBrushCpp.js'); SyntaxHighlighter.all();</script>
+ 
+ 
+</div> <div class="printfooter">
+Retrieved from "<a href="https://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&oldid=7914">https://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&amp;oldid=7914</a>" </div>
+<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://www.dfrobot.com/wiki/index.php?title=Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="http://www.dfrobot.com/wiki/index.php?title=Category:Product_Manual" title="Category:Product Manual">Product Manual</a></li><li><a href="http://www.dfrobot.com/wiki/index.php?title=Category:DRI_Series" title="Category:DRI Series">DRI Series</a></li><li><a href="http://www.dfrobot.com/wiki/index.php?title=Category:Shield&action=edit&redlink=1" class="new" title="Category:Shield (page does not exist)">Shield</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-login"><a href="http://www.dfrobot.com/wiki/index.php?title=Special:UserLogin&returnto=Stepper+Motor+Shield+For+Arduino+%28SKU%3ADRI0023%29" title="You are encouraged to log in; however, it is not mandatory [alt-shift-o]" accesskey="o">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li id="ca-nstab-main" class="selected"><span><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)" title="View the content page [alt-shift-c]" accesskey="c">Page</a></span></li>
+<li id="ca-talk" class="new"><span><a href="http://www.dfrobot.com/wiki/index.php?title=Talk:Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&action=edit&redlink=1" title="Discussion about the content page [alt-shift-t]" accesskey="t">Discussion</a></span></li>
+</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+<h3 id="mw-vector-current-variant">
+</h3>
+<h3 id="p-variants-label" tabindex="0"><span>Variants</span><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#" tabindex="-1"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li id="ca-view" class="selected"><span><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)">Read</a></span></li>
+<li id="ca-viewsource"><span><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&action=edit" title="This page is protected.
+You can view its source [alt-shift-e]" accesskey="e">View source</a></span></li>
+<li id="ca-history" class="collapsible"><span><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&action=history" title="Past revisions of this page [alt-shift-h]" accesskey="h">View history</a></span></li>
+</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+<h3 id="p-cactions-label" tabindex="0"><span>Actions</span><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#" tabindex="-1"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3><label for="searchInput">Search</label></h3>
+<form action="http://www.dfrobot.com/wiki/index.php" id="searchform">
+<div id="simpleSearch">
+<input name="search" placeholder="Search" title="Search Robot Wiki [alt-shift-f]" accesskey="f" id="searchInput" tabindex="1" autocomplete="off"> <button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/search-ltr.png" alt="Search" width="12" height="13"></button> <input type="hidden" name="title" value="Special:Search">
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel" class="collapsible-nav">
+<div id="p-logo" role="banner"><a style="background-image: url(/wiki/skins/common/images/wiki.png);" href="http://www.dfrobot.com/wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+<div class="portal first persistent" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a href="http://www.dfrobot.com/wiki/index.php?title=Main_Page" title="Visit the main page [alt-shift-z]" accesskey="z">Main page</a></li>
+<li id="n-Review"><a href="http://www.dfrobot.com/wiki/index.php?title=Review">Review</a></li>
+<li id="n-Project"><a href="http://www.dfrobot.com/wiki/index.php?title=Project">Project</a></li>
+<li id="n-Tutorial"><a href="http://www.dfrobot.com/wiki/index.php?title=Tutorial">Tutorial</a></li>
+<li id="n-Assembly-Guide"><a href="http://www.dfrobot.com/wiki/index.php?title=Assembly_Guide">Assembly Guide</a></li>
+<li id="n-Product-Manual"><a href="http://www.dfrobot.com/wiki/index.php?title=Product_Manual">Product Manual</a></li>
+<li id="n-help"><a href="http://www.dfrobot.com/wiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+</ul>
+</div>
+</div>
+<div class="portal expanded" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+<h3 id="p-tb-label" tabindex="2"><a href="http://www.dfrobot.com/wiki/index.php/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)#">Tools</a></h3>
+<div class="body" style="display: block;">
+<ul>
+<li id="t-whatlinkshere"><a href="http://www.dfrobot.com/wiki/index.php?title=Special:WhatLinksHere/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)" title="A list of all wiki pages that link here [alt-shift-j]" accesskey="j">What links here</a></li>
+<li id="t-recentchangeslinked"><a href="http://www.dfrobot.com/wiki/index.php?title=Special:RecentChangesLinked/Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="http://www.dfrobot.com/wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [alt-shift-q]" accesskey="q">Special pages</a></li>
+<li id="t-print"><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&printable=yes" rel="alternate" title="Printable version of this page [alt-shift-p]" accesskey="p">Printable version</a></li>
+<li id="t-permalink"><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&oldid=7914" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="http://www.dfrobot.com/wiki/index.php?title=Stepper_Motor_Shield_For_Arduino_(SKU:DRI0023)&action=info">Page information</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 24 December 2013, at 04:01.</li>
+<li id="footer-info-viewcount">This page has been accessed 19,754 times.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="http://www.dfrobot.com/wiki/index.php?title=Robot_Wiki:Privacy_policy" title="Robot Wiki:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="http://www.dfrobot.com/wiki/index.php?title=Robot_Wiki:About" title="Robot Wiki:About">About Robot Wiki</a></li>
+<li id="footer-places-disclaimer"><a href="http://www.dfrobot.com/wiki/index.php?title=Robot_Wiki:General_disclaimer" title="Robot Wiki:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-poweredbyico">
+<a href="http://www.mediawiki.org/"><img src="./Stepper Motor Shield For Arduino (SKU DRI0023) - Robot Wiki_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+ 
+
+
+<span style="height: 20px; width: 40px; min-height: 20px; min-width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=);"></span><div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>

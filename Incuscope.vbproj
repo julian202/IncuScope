@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{585B4101-1A33-4D9E-866D-87A37F6A0D13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Incuscope.My.MyApplication</StartupObject>
+    <RootNamespace>Incuscope</RootNamespace>
+    <AssemblyName>Incuscope2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Incuscope2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release2\</OutputPath>
+    <DocumentationFile>Incuscope2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Incuscope2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Incuscope2.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\IncuScope - Copy.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FlyCapture2GUI_Managed">
+      <HintPath>.\FlyCapture2GUI_Managed.dll</HintPath>
+    </Reference>
+    <Reference Include="FlyCapture2Managed">
+      <HintPath>.\FlyCapture2Managed.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ExtraExposure.Designer.vb">
+      <DependentUpon>ExtraExposure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExtraExposure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAutostartImaging.Designer.vb">
+      <DependentUpon>FormAutostartImaging.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAutostartImaging.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCamSelection.Designer.vb">
+      <DependentUpon>FormCamSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCamSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCamSelection2.Designer.vb">
+      <DependentUpon>FormCamSelection2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCamSelection2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFocusing.designer.vb">
+      <DependentUpon>FormFocusing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFocusing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFocusingRecorded.Designer.vb">
+      <DependentUpon>FormFocusingRecorded.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFocusingRecorded.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMagnifiedPositions.Designer.vb">
+      <DependentUpon>FormMagnifiedPositions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMagnifiedPositions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNote.Designer.vb">
+      <DependentUpon>FormNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSkipPosition.Designer.vb">
+      <DependentUpon>FormSkipPosition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSkipPosition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTestFocus.Designer.vb">
+      <DependentUpon>FormTestFocus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTestFocus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimedDialog.Designer.vb">
+      <DependentUpon>FormTimedDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimedDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mcHIDInterface.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyModule.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="SettingsForThisPC.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ExtraExposure.resx">
+      <DependentUpon>ExtraExposure.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAutostartImaging.resx">
+      <DependentUpon>FormAutostartImaging.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCamSelection.resx">
+      <DependentUpon>FormCamSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCamSelection2.resx">
+      <DependentUpon>FormCamSelection2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFocusing.resx">
+      <DependentUpon>FormFocusing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFocusingRecorded.resx">
+      <DependentUpon>FormFocusingRecorded.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMagnifiedPositions.resx">
+      <DependentUpon>FormMagnifiedPositions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNote.resx">
+      <DependentUpon>FormNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSkipPosition.resx">
+      <DependentUpon>FormSkipPosition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTestFocus.resx">
+      <DependentUpon>FormTestFocus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimedDialog.resx">
+      <DependentUpon>FormTimedDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\IncuScope - Copy.ico" />
+    <Content Include="VersionLog.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

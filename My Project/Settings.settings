@@ -1,0 +1,1043 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PositionsX" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="PositionsY" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SavedX" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SavedY" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="x3by3" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;-621&lt;/string&gt;
+  &lt;string&gt;-1241&lt;/string&gt;
+  &lt;string&gt;-1241&lt;/string&gt;
+  &lt;string&gt;-621&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;-621&lt;/string&gt;
+  &lt;string&gt;-1241&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="y3by3" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;-470&lt;/string&gt;
+  &lt;string&gt;-470&lt;/string&gt;
+  &lt;string&gt;-470&lt;/string&gt;
+  &lt;string&gt;-940&lt;/string&gt;
+  &lt;string&gt;-940&lt;/string&gt;
+  &lt;string&gt;-940&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="x3by3R" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;8182&lt;/string&gt;
+  &lt;string&gt;16364&lt;/string&gt;
+  &lt;string&gt;16364&lt;/string&gt;
+  &lt;string&gt;8182&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;8182&lt;/string&gt;
+  &lt;string&gt;16364&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="y3by3R" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;-6124&lt;/string&gt;
+  &lt;string&gt;-6124&lt;/string&gt;
+  &lt;string&gt;-6124&lt;/string&gt;
+  &lt;string&gt;-12248&lt;/string&gt;
+  &lt;string&gt;-12248&lt;/string&gt;
+  &lt;string&gt;-12248&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Ftimes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="positionsF" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="FchangeSArray" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SkipSettings" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ExposureSettings" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string /&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ExposureSettings2" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SkipLightIOnly" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="testmode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="pololusteps" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="pololurepetitions" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="pololustepsY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="pololumode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mcl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="drive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:</Value>
+    </Setting>
+    <Setting Name="myserialport" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="minspeedLOW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7000</Value>
+    </Setting>
+    <Setting Name="maxspeedLOW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="rampslopeLOW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="minspeedHIGH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="maxspeedHIGH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="rampslopeHIGH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="UNITS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STEP</Value>
+    </Setting>
+    <Setting Name="checkb15" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb17" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb14" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="checkb4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb5" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb19" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkb20" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="radiob25" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="radiob20" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="checkb21" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="radiob24" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="largestepMS4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="smallstepMS4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tinystepMS4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="largestepMCL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="smallstepMCL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tinystepMCL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="checkb8" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="shutterBF" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterBF2" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterfluo" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterDarkF" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="largestepMS2000" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="smallstepMS2000" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="tinystepMS2000" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="radiob23" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="thisPC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ZipfelLab</Value>
+    </Setting>
+    <Setting Name="interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="mywidth" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="myheight" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="wellwidth" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="wellheight" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="configname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="confignumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FlipYCam1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="InvertMotor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FocusingLightType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="imageSubFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CurrenImagingSession</Value>
+    </Setting>
+    <Setting Name="FlipXCam1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="shutterBFb" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterBF2b" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterfluob" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shutterDarkFb" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScaleBarImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="imagewithCam1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="imagewithCam2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ArduinoMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="arduinoComPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="sendEmails" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="tinkerkitmode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ArduinoIncuMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Cam1RED" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MotorSteps" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MotorStepsB" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="radiob22" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PololuBacklash" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="testPos1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="testPos2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DCmotors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FlCam1Pin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FlCam2Pin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Panel2Shown" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Panel3Shown" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="recordedfocus" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SwitchY" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SwitchxCheckbox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SwitchyCheckbox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SwitchX" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FlipXCam2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FlipYCam2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseBFCam1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DfCam1Pin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Fl_A4988" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StageHiSpeed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FocusEvery" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="positionToAutofocus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="skipAuto" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gainCam1" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="gainCam2" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AutoStartCheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseRecorded" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Autofocusarray" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ScaleBarImage10X" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ScaleBarImage4X" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ScaleBarImage10XChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ScaleBarImage4XChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

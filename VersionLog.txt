@@ -1,0 +1,14 @@
+﻿Version 1.X has been updated to include.. 
+
+X	
+10 Added skip position form.  Added save to VANADIUM.
+11 Added form for exposure time.  changed relative position bitmap so that it refreshes when covered. Saves to Left and Right folders in Vanadium.
+12 Corrected no light when extra exposure is set to zero.
+39 wait time before taking image increased from 500 to 2000ms, this is because the stage moves for up to 2 seconds after stopping!
+40 now makes a counter clock circle at EACH postion to remove backlash in both directions. also added now this backlash correction also for position 1.
+
+version 2.x
+
+x
+02  added to Private Sub Button10_Click: savePositionstxt(directoryInfo.FullName & "\ConfigAndErrorFiles") 'saves SAVEDX.txt to Release folder. ' the same thing happens when you click Start.
+   

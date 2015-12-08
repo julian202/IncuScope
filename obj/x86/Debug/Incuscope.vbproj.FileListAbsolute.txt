@@ -1,0 +1,129 @@
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\Debug\FlyCapture2GUI_Managed.dll
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\Debug\FlyCapture2Managed.dll
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\Incuscope.Form1.resources
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\Incuscope.Resources.resources
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x86\Debug\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.exe
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.xml
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\bin\Debug\Incuscope.exe.config
+C:\Program Files (x86)\IncuScope\bin\Debug\Incuscope.exe
+C:\Program Files (x86)\IncuScope\bin\Debug\Incuscope.pdb
+C:\Program Files (x86)\IncuScope\bin\Debug\Incuscope.xml
+C:\Program Files (x86)\IncuScope\bin\Debug\FlyCapture2GUI_Managed.dll
+C:\Program Files (x86)\IncuScope\bin\Debug\FlyCapture2Managed.dll
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.Form1.resources
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.Resources.resources
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\Incuscope.FormFocusing.resources
+C:\Programs\IncuScope\bin\Debug\Incuscope.exe.config
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.exe
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.xml
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.pdb
+C:\Programs\IncuScope\bin\Debug\Incuscope.exe
+C:\Programs\IncuScope\bin\Debug\Incuscope.pdb
+C:\Programs\IncuScope\bin\Debug\Incuscope.xml
+C:\Programs\IncuScope\bin\Debug\FlyCapture2GUI_Managed.dll
+C:\Programs\IncuScope\bin\Debug\FlyCapture2Managed.dll
+C:\Programs\IncuScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.Form1.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormFocusing.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.Resources.resources
+C:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\ResGen.read.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files (x86)\IncuScope\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.ExtraExposure.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormSkipPosition.resources
+C:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+S:\Programs\IncuScope\bin\Debug\Incuscope.exe.config
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.exe
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.xml
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.pdb
+S:\Programs\IncuScope\bin\Debug\Incuscope.exe
+S:\Programs\IncuScope\bin\Debug\Incuscope.pdb
+S:\Programs\IncuScope\bin\Debug\Incuscope.xml
+S:\Programs\IncuScope\bin\Debug\EASendMail.dll
+S:\Programs\IncuScope\bin\Debug\FlyCapture2GUI_Managed.dll
+S:\Programs\IncuScope\bin\Debug\FlyCapture2Managed.dll
+S:\Programs\IncuScope\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.ExtraExposure.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.Form1.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormFocusing.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormSkipPosition.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormTestFocus.resources
+S:\Programs\IncuScope\obj\x86\Debug\Incuscope.Resources.resources
+S:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+S:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+S:\Programs\IncuScope\obj\x86\Debug\ResGen.read.1.tlog
+S:\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+S:\Programs\IncuScope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\Incuscope.exe.config
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\EASendMail.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\FlyCapture2GUI_Managed.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\Debug\FlyCapture2Managed.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.ExtraExposure.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.Form1.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.FormFocusing.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.FormSkipPosition.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.FormTestFocus.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\Incuscope.Resources.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormMagnifiedPositions.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormTestFocus.resources
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\Incuscope.exe.config
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.exe
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.xml
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.pdb
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\Incuscope.exe
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\Incuscope.pdb
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\Incuscope.xml
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\FlyCapture2GUI_Managed.dll
+C:\Program Files (x86)\Programs\IncuScope\bin\Debug\FlyCapture2Managed.dll
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.ExtraExposure.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.Form1.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection2.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormFocusing.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormMagnifiedPositions.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormNote.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormSkipPosition.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormTestFocus.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.FormTimedDialog.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\Incuscope.Resources.resources
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files (x86)\Programs\IncuScope\obj\x86\Debug\ResGen.write.1.tlog
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormCamSelection2.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormFocusingRecorded.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormNote.resources
+C:\Programs\IncuScope\obj\x86\Debug\Incuscope.FormTimedDialog.resources

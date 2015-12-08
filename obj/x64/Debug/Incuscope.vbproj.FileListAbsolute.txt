@@ -1,0 +1,40 @@
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Debug\Incuscope.exe
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Debug\Incuscope.pdb
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Debug\Incuscope.xml
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Debug\FlyCapture2Managed.dll
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\ResolveAssemblyReference.cache
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\Incuscope.Form1.resources
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\Incuscope.Resources.resources
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\ResGen.read.1.tlog
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\ResGen.write.1.tlog
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\Incuscope.exe
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\Incuscope.xml
+c:\users\laptop julian\documents\visual studio 2010\Projects\Incuscope\Incuscope\obj\x64\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\visual studio 2010\Projects\Incuscope\Incuscope\bin\x64\Debug\FlyCapture2GUI_Managed.dll
+C:\Program Files (x86)\IncuScope\obj\x64\Debug\Incuscope.exe
+C:\Program Files (x86)\IncuScope\obj\x64\Debug\Incuscope.xml
+C:\Program Files (x86)\IncuScope\obj\x64\Debug\Incuscope.pdb
+C:\Programs\IncuScope\bin\x64\Debug\Incuscope.exe.config
+C:\Programs\IncuScope\obj\x64\Debug\Incuscope.exe
+C:\Programs\IncuScope\obj\x64\Debug\Incuscope.xml
+C:\Programs\IncuScope\obj\x64\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\Incuscope.exe.config
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\Incuscope.exe
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\Incuscope.pdb
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\Incuscope.xml
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\EASendMail.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\FlyCapture2GUI_Managed.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\bin\x64\Debug\FlyCapture2Managed.dll
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.ExtraExposure.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.Form1.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.FormCamSelection.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.FormFocusing.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.FormSkipPosition.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.FormTestFocus.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\Incuscope.Resources.resources
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Laptop Julian\Documents\Visual Studio 2010\Projects\IncuScope\obj\x64\Debug\ResGen.write.1.tlog

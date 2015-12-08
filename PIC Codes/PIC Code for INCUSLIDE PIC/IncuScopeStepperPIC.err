@@ -1,0 +1,5 @@
+>>> Warning 203 "C:\Program Files\PICC\drivers\pic18_usb.h" Line 436(1,1): Condition always TRUE
+>>> Warning 216 "IncuScopeStepperPIC.c" Line 160(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "IncuScopeStepperPIC.c" Line 160(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+      Memory usage:   ROM=17%      RAM=31% - 33%
+      0 Errors,  3 Warnings.
